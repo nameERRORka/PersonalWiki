@@ -2,10 +2,10 @@
 <p>Report - 54345 LockSaveObjForMrg - Выдача полного доступа в NAV</p>
 <p>Page - 21075260 Web User - USERID = sotrudnik - Таблица и логин для входа на сайт</p>
 <h1 align="center">:baby: Обучалки по работе в NAV :baby:</h1><br/>
----
+<hr>
 <p>\\svbyprisa0126\ITDepartment\БИЗНЕС АНАЛИЗ\Shared_Folder\Обучение\Введение\ - Инструкии по заказам продаж</p>
 <p>\\svbyprisa0126\ITDepartment\БИЗНЕС АНАЛИЗ\Shared_Folder\Инструкции\SHATE TMS</p>
----
+<hr>
 <h1 align="center">:pushpin: Различные ссылки для работы :pushpin:</h1><br/>
 <p>https://redmine.shate-m.com/issues/34840 - Трек обучалок, дейликов</p>
 <p>https://redmine.shate-m.com/projects/90/wiki/Wiki - Всеобщая википедька по NAV</p>
