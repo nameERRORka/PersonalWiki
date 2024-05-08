@@ -11,5 +11,5 @@
 -<p>https://redmine.shate-m.com/projects/90/wiki/Wiki - Всеобщая википедька по NAV</p>
 <hr>
 -<h1 align="center">:hammer: Херня для продления лицензии Prism :hammer:</h1><br/>
--<p>Компьютер\HKEY_CURRENT_USER\SOFTWARE\Classes\CLSID - путь для удаления реестра</p>
+- Компьютер\HKEY_CURRENT_USER\SOFTWARE\Classes\CLSID - путь для удаления реестра
 <hr>
