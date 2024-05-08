@@ -16,6 +16,5 @@
 
 
 <h1 align="center">:arrow_down_small: Полезные софтины :arrow_down_small:</h1><br/>
-<p>Task Packer - <a href="https://github.com/nameERRORka/PersonalWiki/raw/main/TaskPacker.rar">Скачать</a></p>
-
+<p>Task Packer - <a href="https://github.com/nameERRORka/PersonalWiki/raw/main/TaskPacker.rar">Скачать</a> (программа помощник по упаковке задач)</p>
 <hr>
