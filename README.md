@@ -13,3 +13,7 @@
 <h1 align="center">:hammer: Херня для продления лицензии Prism :hammer:</h1><br/>
 <p>Компьютер\HKEY_CURRENT_USER\SOFTWARE\Classes\CLSID - путь для удаления реестра</p>
 <hr>
+
+
+Полезные ссылки
+Task Packer - <a href="https://github.com/nameERRORka/PersonalWiki/raw/main/TaskPacker.rar">Скачать</a>
