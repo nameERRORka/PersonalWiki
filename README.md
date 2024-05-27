@@ -22,3 +22,5 @@
 <p>Task Packer - <a href="https://github.com/nameERRORka/PersonalWiki/raw/main/TaskPacker.rar">Скачать</a> (программа помощник по упаковке задач)</p>
 <p>PrismFixer - <a href="https://github.com/nameERRORka/PersonalWiki/raw/main/PrismFixer.exe">Скачать</a> (консольное приложение для более быстрой очистки реестра с лицензией Prism)</p>
 <hr>
+
+<p>\\svbyprisa0130\Releases\!Nav\Test</p>
