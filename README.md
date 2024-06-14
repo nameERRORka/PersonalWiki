@@ -5,7 +5,7 @@
 
 <h1 align="center">:baby: Обучалки по работе в NAV :baby:</h1><br/>
 <p>\\svbyprisa0126\ITDepartment\БИЗНЕС АНАЛИЗ\Shared_Folder\Обучение\Введение\ - Инструкии по заказам продаж</p>
-<p>\\svbyprisa0126\ITDepartment\БИЗНЕС АНАЛИЗ\Shared_Folder\Инструкции\SHATE TMS - Инструкции по транспортному отделу</p>
+<p><a href="\\svbyprisa0126\ITDepartment\БИЗНЕС АНАЛИЗ\Shared_Folder\Инструкции\SHATE TMS"/> - Инструкции по транспортному отделу</p>
 <p>Обучалка по SQL - <a href="https://classroom.google.com/w/OTkwNTIzMjY5NFpa/t/all">ТЫК</a></p>
 <hr>
 
