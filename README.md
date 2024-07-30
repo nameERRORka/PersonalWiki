@@ -27,5 +27,5 @@
 <p>\\svbyprisa0130\Releases\!Nav\Test</p> - путь переноса на тест
 
 <h1 align="center">:arrow_down_small: Номера назначения ТТН/ТН :arrow_down_small:</h1><br/>
-82001029999999 --TTN
-80201029999999 --TN
+<p>82001029999999 --TTN</p>
+<p>80201029999999 --TN</p>
