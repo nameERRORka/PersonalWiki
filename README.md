@@ -23,4 +23,9 @@
 <p>PrismFixer - <a href="https://github.com/nameERRORka/PersonalWiki/raw/main/PrismFixer.exe">Скачать</a> (консольное приложение для более быстрой очистки реестра с лицензией Prism)</p>
 <hr>
 
-<p>\\svbyprisa0130\Releases\!Nav\Test</p>
+<h1 align="center">:arrow_down_small: Иные полезности и инфо :arrow_down_small:</h1><br/>
+<p>\\svbyprisa0130\Releases\!Nav\Test</p> - путь переноса на тест
+
+<h1 align="center">:arrow_down_small: Номера назначения ТТН/ТН :arrow_down_small:</h1><br/>
+82001029999999 --TTN
+80201029999999 --TN
