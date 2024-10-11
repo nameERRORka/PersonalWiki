@@ -24,8 +24,8 @@
 <hr>
 
 <h1 align="center">:arrow_down_small: Иные полезности и инфо :arrow_down_small:</h1><br/>
-<p>\\svbyprisa0130\Releases\!Nav\Test</p> - путь переноса на тест
-<p>SVBYPRISSQ8</p> - БДшка для архива
+<p>\\svbyprisa0130\Releases\!Nav\Test - путь переноса на тест</p> 
+<p>SVBYPRISSQ8 - БДшка для архива </p>
 
 <h1 align="center">:arrow_down_small: Номера назначения ТТН/ТН :arrow_down_small:</h1><br/>
 <p>82001029999999 --TTN</p>
