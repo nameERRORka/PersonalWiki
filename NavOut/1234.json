@@ -433,6 +433,138 @@
             "CreatedUserID": 207,
             "CreatedUserFullName": "Максим Михан",
             "CreatedDate": "2024-09-24 12:52:50"
+         },
+         {
+            "Position": 4,
+            "Name": "шины пневматические резиновые новые для легковых автомобилей с посадочным диаметром 17 дюймов",
+            "SpecialDescription": null,
+            "Tnved": "4011100009",
+            "TnvedAddition": "2100",
+            "Amount": 30,
+            "Measure": "шт",
+            "MeasureCode": "796",
+            "Manufacturer": "SHANDONG LINGLONG TYRE CO., LTD.",
+            "Trademark": "LINGLONG",
+            "Price": 1851.3,
+            "CustomsCost": 6042.83,
+            "Brutto": 459.9,
+            "Netto": 459.9,
+            "Netto2": 459.9,
+            "CargoPlacePackingType": "NE",
+            "CargoPlaceAmount": 30,
+            "CargoPlacePartialAmount": null,
+            "AdditionalAmount": 30,
+            "AdditionalMeasure": "шт",
+            "AdditionalMeasureCode": "796",
+            "OriginCountry": "CN",
+            "ExciseID": "",
+            "AntidumpingID": "",
+            "GoodsInfo": [            {
+               "Name": "Шина легковая",
+               "Mark": null,
+               "Model": "Green-Max Winter ICE I-15 SUV",
+               "VendorCode": "265/65R17 112T",
+               "SerialNumber": "",
+               "Amount": 30,
+               "Cost": 1851.3,
+               "DimensionLength": null,
+               "DimensionWidth": null,
+               "DimensionHeight": null,
+               "DimensionMeasure": null,
+               "Note": "1277075",
+               "TwsApiParams": "{\"GoodPositionName\":\"шины пневматические резиновые новые для легковых автомобилей с посадочным диаметром 17 дюймов\"}"
+            }],
+            "CustomsPayments":             [
+                              {
+                  "Code": "2010",
+                  "Name": "Ввозная таможенная пошлина (иные пошлины, налоги и сборы, имеющие эквивалентное действие), обязанность по уплате которой возникла с 1 сентября 2010 г.",
+                  "Rate": "10%",
+                  "Sum": 604.28,
+                  "Details": "ИУ"
+               },
+                              {
+                  "Code": "5010",
+                  "Name": "Налог на добавленную стоимость",
+                  "Rate": "20%",
+                  "Sum": 1329.42,
+                  "Details": "ИУ"
+               }
+            ],
+            "Documents":             [
+                              {
+                  "Code": "01401",
+                  "Name": "сертификат",
+                  "Number": "ЕАЭС RU С-CN.НВ89.В.00219/23",
+                  "Date": "2023-05-10",
+                  "DateFrom": "2023-05-10",
+                  "DateTo": "2025-05-09"
+               },
+                              {
+                  "Code": "02013",
+                  "Name": "накладная",
+                  "Number": "34525956",
+                  "Date": "2024-09-09"
+               },
+                              {
+                  "Code": "03011",
+                  "Number": "1/6/2014",
+                  "Date": "2014-06-01"
+               },
+                              {
+                  "Code": "03012",
+                  "Number": "1",
+                  "Date": "2017-07-19"
+               },
+                              {
+                  "Code": "03012",
+                  "Number": "3",
+                  "Date": "2018-04-12"
+               },
+                              {
+                  "Code": "03012",
+                  "Number": "4",
+                  "Date": "2020-06-02"
+               },
+                              {
+                  "Code": "03012",
+                  "Number": "5",
+                  "Date": "2020-06-23"
+               },
+                              {
+                  "Code": "03031",
+                  "Name": "регистрация сделки",
+                  "Number": "210713/042002/52187",
+                  "Date": "2021-07-13"
+               },
+                              {
+                  "Code": "04021",
+                  "Name": "инвойс",
+                  "Number": "60202407730",
+                  "Date": "2024-07-10"
+               },
+                              {
+                  "Code": "09011",
+                  "Number": "BY/0008/ТИП2",
+                  "Date": "2018-08-21",
+                  "DateFrom": "2018-08-21",
+                  "DateTo": "2026-08-31"
+               },
+                              {
+                  "Code": "09013",
+                  "Name": "транзитная декларация",
+                  "Number": "10719100/120924/5080125",
+                  "Date": "2024-09-12"
+               },
+                              {
+                  "Code": "09019",
+                  "Name": "уведомление",
+                  "Number": "06604/021049042726",
+                  "Date": "2024-10-02"
+               }
+            ],
+            "CreatedUserID": 207,
+            "CreatedUserFullName": "Максим Михан",
+            "CreatedDate": "2024-09-24 12:52:50"
          }
       ],
       "CustomsPaymentTotals":       [
